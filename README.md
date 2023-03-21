@@ -2,6 +2,8 @@
 
 Chess Game created using C++ and SDL2
 
+![image](https://user-images.githubusercontent.com/128534708/226742752-8ef1ea25-6777-4a26-8f1b-87f650bd5c79.png)
+
 ## Future Plans
 - Add castling
 - Add AI for opponent
