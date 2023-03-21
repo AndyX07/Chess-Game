@@ -16,7 +16,7 @@ CodeBlocks: http://fredericgoset.ovh/sdl/en/installation.html
 
 ## Setup
 - Download the project
-- Run the project using the Chess.cbp file
+- Run the project using the Chess.cbp file in src
 
 ## Inspiration
 This project was inspired by Sebastian Lague on Youtube.
