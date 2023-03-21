@@ -11,7 +11,7 @@ Chess Game created using C++ and SDL2
 - SDl2
 
 ## Requirements
-Make sure you have SDL2 installed as well as all dependencies
+Make sure you have SDL2 installed as well as all dependencies <br/>
 CodeBlocks: http://fredericgoset.ovh/sdl/en/installation.html
 
 ## Setup
@@ -19,5 +19,5 @@ CodeBlocks: http://fredericgoset.ovh/sdl/en/installation.html
 - Run the project using the Chess.cbp file in src
 
 ## Inspiration
-This project was inspired by Sebastian Lague on Youtube.
+This project was inspired by Sebastian Lague on Youtube. <br/>
 https://www.youtube.com/watch?v=U4ogK0MIzqk
