@@ -14,7 +14,7 @@ Chess Game created using C++ and SDL2
 
 ## Requirements
 Make sure you have SDL2 installed as well as all dependencies <br/>
-CodeBlocks: http://fredericgoset.ovh/sdl/en/installation.html
+SDL2 installation for CodeBlocks: http://fredericgoset.ovh/sdl/en/installation.html
 
 ## Setup
 - Download the project
